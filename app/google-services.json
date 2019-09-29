@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530124195825",
+    "firebase_url": "https://mapsv2-fd833.firebaseio.com",
+    "project_id": "mapsv2-fd833",
+    "storage_bucket": "mapsv2-fd833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530124195825:android:d3775d7f2478ac4d042650",
+        "android_client_info": {
+          "package_name": "com.everton.mapsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530124195825-782113tt06g1tvr1ppd0scgcbknqljkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everton.mapsv2",
+            "certificate_hash": "9949bad389df0094add6943ef6bbab9db72fd1f2"
+          }
+        },
+        {
+          "client_id": "530124195825-0cglk3jg38ifrd16mnk8nvp6nh29j2fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnLCPe5Je5UblouSnjWG0LjP7YGyljpYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530124195825-0cglk3jg38ifrd16mnk8nvp6nh29j2fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

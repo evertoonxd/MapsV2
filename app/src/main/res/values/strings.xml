@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsV2</string>
+    <string name="title_activity_maps">MapsV2</string>
+    <string name="go">Vai</string>
+</resources>
