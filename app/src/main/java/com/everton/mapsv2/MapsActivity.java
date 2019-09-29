@@ -76,6 +76,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             currentLocationMarker.remove();
         }
         //add marker boy
+
         mMap.clear();
         boyLat = location.getLatitude();
         boyLng = location.getLongitude();
